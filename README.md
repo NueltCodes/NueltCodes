@@ -11,7 +11,7 @@ I am a frontend developer who loves React. At first I started off as a graphics 
 * 🚀  I'm currently working on [a Booking App with React](http://react app)
 * 🧠  I'm learning the basics of Node.js MongoDB and express
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I Am The Peaky Blinders, Go Tell Everyone
+* ⚡  Fun Fact : It was I who programmed Iron Man Suites
 
 ### Skills
 
