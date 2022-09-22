@@ -4,9 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer and Graphics Designer
 ----------------------------------------
 
-I am a frontend developer who loves React. At first I started off as a graphics designer and then transcended into programming
+I am a frontend developer who loves React. At first I started off as a graphics designer and then transcended into programming.
 
+* 🌍  I'm based in anywhere you could think of :)
 * ✉️  You can contact me at [olaniranemmanuelt@gmail.com](mailto:olaniranemmanuelt@gmail.com)
+* 🚀  I'm currently working on [a Booking App with React](http://react app)
 * 🧠  I'm learning the basics of Node.js MongoDB and express
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I Am The Peaky Blinders, Go Tell Everyone
