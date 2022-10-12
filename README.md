@@ -6,7 +6,7 @@ Frontend Developer/Graphics Designer
 
 I am a frontend developer who loves react and react-native💓. At first started as a graphics designer and then transcended into programming. why not check my repo and let my codes speak for me.
 
-* 🌍  I'm based in Remote
+* 🌍  Remote
 * ✉️  You can contact me at [olaniranemmanuelt@gmail.com](mailto:olaniranemmanuelt@gmail.com)
 * 🚀  I'm currently working on [a NFT App with web 3](http://NFT dabb in process)
 * 🧠  I'm learning Web 3 and working on a NFT project
