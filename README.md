@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olaniran Emmanuel
 =========================================================================================================================================
 
-Frontend Developer/Graphics Designer
+Full Stack Developer/Graphics Designer
 ------------------------------------
 
-I am a frontend developer who loves react and react-native💓. At first started as a graphics designer and then transcended into programming. why not check my repo and let my codes speak for me.
+I am a ful stack developer who loves react and react-native💓. At first started as a graphics designer and then transcended into programming. why not check my repo and let my codes speak for me.
 
 * 🌍  Remote
 * ✉️  You can contact me at [olaniranemmanuelt@gmail.com](mailto:olaniranemmanuelt@gmail.com)
