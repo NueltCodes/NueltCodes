@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer/Graphics Designer
 ------------------------------------
 
-I am a ful stack developer who loves react and react-native💓. At first started as a graphics designer and then transcended into programming. why not check my repo and let my codes speak for me.
+I am a full stack developer who loves react, python and react-native💓. At first started as a graphics designer and then transcended into programming. why not check my repo and let my codes speak for me.
 
 * 🌍  Remote
 * ✉️  You can contact me at [olaniranemmanuelt@gmail.com](mailto:olaniranemmanuelt@gmail.com)
@@ -36,7 +36,7 @@ I am a ful stack developer who loves react and react-native💓. At first starte
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/NueltCodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/olaniran-emmanuel-113392224" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/NueltCodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/emmanuet/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
